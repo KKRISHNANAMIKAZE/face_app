@@ -42,6 +42,8 @@ uvicorn face_system:app --reload --port 5000
 cd node-backend
 npm install
 node index.js
+
+
 ARCHITECTURE DIAGRAM :
 +--------------------+          +-------------------+          +-------------------+
 |                    |          |                   |          |                   |
@@ -62,5 +64,5 @@ ARCHITECTURE DIAGRAM :
 |                    |
 +--------------------+
 
-demo link : 
+demo link : https://drive.google.com/file/d/17tv9nksyQrgFIJ_xxDxIjJQZ-SlhOwMD/view?usp=sharing
 This project is a part of a hackathon run by https://katomaran.com
