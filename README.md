@@ -19,7 +19,7 @@ A smart web application that allows users to register and recognize faces using 
   - `RecognizeFace.jsx`: Manages webcam-based live recognition.
   - `ChatInterface.jsx`: Provides chatbot interface.
 - **Backend**:
-  - `face_system.py` (FastAPI): Processes registration, recognition, chat, and memory.
+  - `face_register.py` (FastAPI): Processes registration, recognition, chat, and memory.
   - `Node.js server`: Handles image upload endpoints.
 - **Database**: JSON file and Firebase (optional).
 - **Logging**: Events logged to `registration.log`, `recognition.log`, and `chat.log`.
