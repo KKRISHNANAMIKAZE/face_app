@@ -1,0 +1,7 @@
+face_recognition
+opencv-python
+flask
+flask-cors
+langchain
+faiss-cpu
+sentence-transformers
